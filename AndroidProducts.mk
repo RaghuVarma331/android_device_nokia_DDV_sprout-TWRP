@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_DDV_sprout.mk
+    $(LOCAL_DIR)/lineage_DDV_sprout.mk
